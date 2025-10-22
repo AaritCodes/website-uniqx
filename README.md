@@ -1,20 +1,19 @@
-# UniqX — Production-ready demo (replace placeholders with real content)
+# @babel/runtime
 
-This project contains a multi-page Next.js + Tailwind site branded as UniqX. The build includes:
+> babel's modular runtime helpers
 
-- Animated charts (Recharts) and framer-motion for subtle UI animation.
-- ROI calculator component (components/RoiCalculator.jsx) — use real numbers to estimate ROI.
-- Floating chat widget (components/ChatWidget.jsx) which saves messages to `messages.json`.
-- Portfolio pages with screenshot placeholders — replace with real images.
-- SEO, Website and SMM detailed service pages with forms that POST to `/api/quotes`.
+See our website [@babel/runtime](https://babeljs.io/docs/babel-runtime) for more information.
 
-IMPORTANT: I did **not** invent client results. Replace all placeholder/projected numbers and screenshots with your real data and case studies before publishing.
+## Install
 
-Run locally:
+Using npm:
 
-```
-npm install
-npm run dev
+```sh
+npm install --save @babel/runtime
 ```
 
-Files to edit for real data: pages/*.jsx, components/*, public/* (add real images).
+or using yarn:
+
+```sh
+yarn add @babel/runtime
+```

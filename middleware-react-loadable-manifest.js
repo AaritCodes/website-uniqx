@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"_app.js -> ../components/ChatWidget\":{\"id\":\"_app.js -> ../components/ChatWidget\",\"files\":[\"static/chunks/components_ChatWidget_jsx.js\"]}}"
